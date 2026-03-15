@@ -3,8 +3,9 @@
 
 ## More About Me :blush:
 - 🌱 I graduated as the **valedictorian** of the Software Engineering program at FPT University.
+- 💻 I specialize in backend development with **C# (.NET)** and **Java (Spring Boot)**, building scalable APIs and microservices.  
 - 💚 I'm a passionate, energetic and confident individual who approaches work with a sense of responsibility and positivity. With an curious and eager-to-learn mindset, I'm hardworking and possess excellent self-learning skills.
-- 🎯 My goal is to become a **Backend Developer** in the near future
+- 🎯 My goal is to continuously grow as a **Backend Developer** and build scalable, high-performance systems.
 
 <h2 align="left">Connect with me:</h3>
 <p align="left">
