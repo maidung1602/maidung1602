@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hoang Mai Dung</h1>
-<h2 align="center">Currently an undergraduate fullstack developer</h3>
+<h2 align="center">Currently a backend developer</h3>
 
 ## More About Me :blush:
-- 🌱 I’m currently majoring **software engineering at FPT university**
+- 🌱 I graduated as the **valedictorian** of the Software Engineering program at FPT University.
 - 💚 I'm a passionate, energetic and confident individual who approaches work with a sense of responsibility and positivity. With an curious and eager-to-learn mindset, I'm hardworking and possess excellent self-learning skills.
 - 🎯 My goal is to become a **Backend Developer** in the near future
 
